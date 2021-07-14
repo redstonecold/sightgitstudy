@@ -13,5 +13,5 @@
 4. __UI 초안__       
   <img width="740" alt="스크린샷 2021-07-14 오전 9 41 09" src="https://user-images.githubusercontent.com/70834046/125542959-e19b9f47-1012-4d31-81a5-d0f0e5956802.png">.  
 
-  
+i  
 
